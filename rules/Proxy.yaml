@@ -107,3 +107,7 @@ payload:
   - DOMAIN-WILDCARD,s*-e1.timeprecei.com
   - DOMAIN-WILDCARD,s*-e1.waytogone.com
   - DOMAIN-WILDCARD,s*-e1.deniest.com
+
+# Personal Surge proxy rules
+  - DOMAIN-SUFFIX,funmedia.stream
+  - DOMAIN-KEYWORD,lazycat
